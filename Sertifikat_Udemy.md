@@ -1,1 +1,2 @@
-# cypres-basic![Udemy_Salma Nur Rahma](https://github.com/salmanurrahma/UTS-CYPRESS/edit/master/Sertifikat_Udemy.md)
+# Sertifikat Udemy
+[Sertifikat Udemy.pdf](https://github.com/salmanurrahma/UTS-CYPRESS/files/13575688/Sertifikat.Udemy.pdf)
